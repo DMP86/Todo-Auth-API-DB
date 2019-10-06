@@ -1,0 +1,13 @@
+button{
+    margin-left: .3rem;
+}
+span {
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+.done{
+    text-decoration: line-through;
+}
+.important {
+    color: tomato;
+}
